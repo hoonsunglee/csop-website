@@ -69,10 +69,10 @@
     <div class="main-content">
         <h2>About Us</h2>
         <p>This is a simple HTML template for a website. You can modify it to suit your needs.</p>
-        
+
         <h3>Our Services</h3>
         <p>We offer a range of services to help you achieve your goals. From web development to digital marketing, we've got you covered!</p>
-        
+
         <h3>Contact Us</h3>
         <p>If you have any questions, feel free to reach out via our <a href="#contact">contact page</a>.</p>
     </div>
