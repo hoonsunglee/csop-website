@@ -68,10 +68,10 @@
 <div class="container">
     <div class="main-content">
         <h2>About Us</h2>
-        <p>This is a simple HTML template for a website. You can modify it to suit your needs.</p>
+        <p>Created by the CSOP club, this website records all your EOP violations and make regulating EOP more easier.</p>
 
         <h3>Our Services</h3>
-        <p>We offer a range of services to help you achieve your goals. From web development to digital marketing, we've got you covered!</p>
+        <p>We are involved in recording all EOP violations a student has gained and make the enforcement of EOP easier</p>
 
         <h3>Contact Us</h3>
         <p>If you have any questions, feel free to reach out via our <a href="#contact">contact page</a>.</p>
